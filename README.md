@@ -6,4 +6,6 @@ This model solves a general group of mass, species, energy and momentum conserva
 (3)porus media or mushy region, handled by Darcy law;
 (4)chemical diffusion in liquid;
 (5)latent heat from phase change;
-(6)thermodynamic equilibrium between liquid and different solid phases.
+(6)thermodynamic equilibrium between liquid and different solid phases;
+(7)crystal movement;
+(8)crystal capture or escape.
