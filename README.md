@@ -10,3 +10,5 @@ This model solves a general group of mass, species, energy and momentum conserva
 (7)crystal movement;
 (8)crystal capture or escape;
 (9)solidification front critical shear strength from collapsing.
+
+NOTE: This MAGTC^3 has been renamed as General Magma Dynamics (GMD).
